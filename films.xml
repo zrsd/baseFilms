@@ -1,0 +1,9 @@
+<films>
+<film><id>1</id><nom>Piège de cristal</nom><id_genre>100</id_genre></film>
+<film><id>2</id><nom>Rambo</nom><id_genre>100</id_genre></film>
+<film><id>3</id><nom>L'arme fatale</nom><id_genre>100</id_genre></film>
+<film><id>4</id><nom>2001 : L'Odyssée de l'espace</nom><id_genre>200</id_genre></film>
+<film><id>5</id><nom>L'Armée des 12 singes</nom><id_genre>200</id_genre></film>
+<film><id>6</id><nom>Terminator</nom><id_genre>200</id_genre></film>
+<film><id>7</id><nom>Matrix</nom><id_genre>200</id_genre></film>
+</films>
