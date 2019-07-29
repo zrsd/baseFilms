@@ -6,4 +6,7 @@
 <film><id>6</id><nom>Terminator</nom><id_genre>200</id_genre></film>
 <film><id>7</id><nom>Matrix</nom><id_genre>200</id_genre></film>
 <film><id>8</id><nom>Blade Runner</nom><id_genre>200</id_genre></film>
+<film><id>9</id><nom>Le Roi et l'Oiseau</nom><id_genre>300</id_genre></film>
+<film><id>10</id><nom>Le roi lion</nom><id_genre>300</id_genre></film>
+<film><id>11</id><nom>Les minions</nom><id_genre>300</id_genre></film>
 </films>

@@ -1,4 +1,5 @@
 <genres>
 <genre><id>100</id><nom>Films d'action</nom></genre>
 <genre><id>200</id><nom>Films de science-fiction</nom></genre>
+<genre><id>300</id><nom>Fims d'animation</nom></genre>
 </genres>
